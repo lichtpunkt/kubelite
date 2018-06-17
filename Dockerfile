@@ -1,4 +1,4 @@
-FROM arm32v7/ubuntu:14.04
+FROM arm32v7/ubuntu:16.04
 
 MAINTAINER admin@lichtpunkt.cloud
 
