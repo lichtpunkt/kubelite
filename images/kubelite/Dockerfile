@@ -1,4 +1,4 @@
-FROM busybox
+FROM amd64/busybox
 
 MAINTAINER admin@lichtpunkt.cloud
 
